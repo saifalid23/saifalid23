@@ -1,5 +1,5 @@
 - 👋 Hi, I’m saifali
-- :lips: I can speak python,js,c++ 
+- :lips: python,js,c++ 
 - :man_technologist: I’m currently learning webscraping and backend dev...
 - 📫_sayfalii_ ---say hi or drop a mail @ mohammadahmed7761@gmail.com
 - i play cricket too 🥎
