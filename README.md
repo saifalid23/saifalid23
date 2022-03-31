@@ -1,6 +1,6 @@
 - 👋 Hi, I’m saifali
 - :lips: python,js,c++ 
-- :man_technologist: I’m currently learning webscraping and backend dev...
+- :man_technologist
 - 📫_sayfalii_ ---say hi or drop a mail @ mohammadahmed7761@gmail.com
 - i play cricket too 🥎
 
